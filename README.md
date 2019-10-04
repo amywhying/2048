@@ -1,6 +1,6 @@
-# 2048
+# Re-Designing 2048
 
-This is basically a simple re-creation of the game 2048.
+A simple re-creation of the game 2048.
 Ever since I started playing this game, I get super addicted to it, and I ended up deciding recreating the game myself!
 
 Right now it is still in progress: 
