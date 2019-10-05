@@ -13,7 +13,9 @@ Progress:
     There are still some minor bugs to be fixed, but the game is playable. 
     The color and design of the game will be changed soon, with the plan of
     replacing numbers with different Pepe gifs.
-    More functionality: Best score so far, undo-option, delete-a-tile-option (granted from 512,1024,2048...), delete-a-row/column-option (granted from 512,1024,2048...)
-    Another upcoming functionality would be to allow users to input their pictures or gifs in order to customize their game.
+    More functionality: Best score so far, undo-option, 
+    delete-a-tile-option (granted from 512,1024,2048...), delete-a-row/column-option (granted from 512,1024,2048...)
+    Another upcoming functionality would be to allow users to input their pictures 
+    or gifs in order to customize their game. (Replace pictures with the tiles)
 
 There is not much here yet, but thanks for visiting this page! :)
