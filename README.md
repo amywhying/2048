@@ -4,7 +4,8 @@ A simple re-creation of the game 2048.
 
 Motivation:
 
-    Recently, I came across the usage of Processing in designing drawings, animations, and interactive programs. 
+    Recently, I came across the Processing application, 
+    which specializes in designing drawings, animations, and interactive programs. 
     So, I decided to learn more about it and utilize its functionality to re-design one of my favourite games, 2048.
 
 Progress: 
